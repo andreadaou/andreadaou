@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 👷 I’m an electrical and electronics engineer
-- 🔭 I’m currently pursuing a PhD with a subject related to Localization, Computer Vision and Deep Learning
+- 🔭 I’m currently pursuing a PhD
+- ✨ Research Interest: Computer Vision, Deep Learning, Scene Understanding, Indoor Localization
 
 <!--
 **andreadaou/andreadaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
